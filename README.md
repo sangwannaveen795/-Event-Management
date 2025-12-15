@@ -45,5 +45,3 @@ The website will run instantly and locally on your machine.
 For questions or inquiries regarding the Hospitality Solutions business:
 
 * **Founder:** Naveen Choudhary
-* **Email:** `hospitalitysolution06@gmail.com`
-* **Phone:** `+91-8112289329`
